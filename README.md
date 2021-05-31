@@ -1,5 +1,9 @@
 # Library Program
 
+## Notes
+
+At start time, ten books are inserted into the database as sample data to work with.
+
 ## Runbook
 
 To install dependencies:
